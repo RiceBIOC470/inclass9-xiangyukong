@@ -1,4 +1,12 @@
 % Inclass assignment 9
+
+%GB comments
+1) 100
+2) 100
+3) 30 Your code does not work and unfortunately I cannot determine what is going on. For one, there is no method in storing your retrieved data for the top 3 matches. Second, you needed to grab the matching percentage which is found in the structure Hits.HSP.Identities. 
+4) 100
+Overall: 83
+
 % The accession number for human NOTCH1 mRNA is AF308602
 % 1. Read the information from this entry into matlab
 accession='AF308602';
